@@ -1,4 +1,4 @@
-# allen
+# smart_ai_memo
 
 A new Flutter project.
 
